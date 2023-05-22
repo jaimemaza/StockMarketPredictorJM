@@ -1,2 +1,2 @@
 # Stock Market Predictor
-Stock Market Predictor
+This predictor use historical data and machine learning techniques to make predictions about future stocks prices. During this project three different machine learning and deep learning algorithms have been used Linear Regression, Moving Average, and LSTM. After training and testing the three different algorithms, the most accurate one has been used to carry out future predictions.
